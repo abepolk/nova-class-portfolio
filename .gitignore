@@ -5,3 +5,5 @@ venv/
 ENV/
 .next
 __pycache__
+portfolio_django/portfolio_django/secrets.py
+.idea
